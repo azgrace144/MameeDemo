@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Power BI Embedded sample</title>
+
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/index.css">
+
+    <style>
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 10px;
+            width: 300px;
+            background-color: #f1f1f1;
+            position: fixed;
+            height: 100%;
+            overflow: auto;
+        }
+
+        li a {
+            display: block;
+            color: #000;
+            padding: 8px 16px;
+            text-decoration: none;
+        }
+
+        li {
+            text-align: center;
+        }
+
+            li a.active {
+                background-color: #555;
+                color: white;
+            }
+
+            li a:hover:not(.active) {
+                background-color: #555;
+                color: white;
+            }
+
+        section {
+            margin-left: 450px;
+        }
+    </style>
+</head>
+
+<body>
+    <header class="embed-container col-lg-12 col-md-12 col-sm-12 shadow">
+        <p>
+            Power BI Embedded
+        </p>
+    </header>
+    <!--
+    <div>
+        SELECT REPORT :
+        <form>
+            <select id="reportSelect" style="width:19.8%; text-align-last:center;">
+                <option selected name="r1" value="2b9d4186-825f-48aa-ba29-1ce284862b78">Report 1</option>
+                <option name="r2" value="92d10f88-da7c-4c02-af5e-822a250e65bc">Report 2</option>
+                <option name="r3" value="b32b7faa-93e5-4331-a1e4-070a7e22e417">Report 3</option>
+                <option name="r4" value="2b9d4186-825f-48aa-ba29-1ce284862b78">Report 4</option>
+            </select>
+        </form>
+    </div>
+    <div id="testing">REPORT ID : </div>
+    -->
+    @using AppOwnsData.ViewModels
+    @model List<DetailReports>
+
+    <div>
+        <ul>
+            <li> <a class="active" href="#home"> Dashboard</a> </li>
+            <li> <a href="Report.cshtml"> Report</a> </li>
+            <li> <a href="#about"> About</a> </li>
+            <li>
+                <div>
+                    REPORT                   
+                    <form>
+                        <select id="reportSelect" style="width: 100%; text-align-last: center;">
+                            @foreach (var report in Model)
+                            {
+                                <option data-report='@Json.Serialize(report)' @(report == Model.First() ? "selected" : "") 
+                                value="@report.Reports.reportId">@report.Reports.name (@report.Roles.name)</option>
+                            }
+                        </select>
+                    </form>
+
+                </div>
+            </li>
+            <li> ID </li>
+            <li>
+                <div id="testing">@Model[0].Reports.reportId</div>
+            </li>
+        </ul>
+    </div>
+    <main class="row">
+
+        <section id="report-container" class="embed-container col-lg-offset-2 col-lg-9 col-md-offset-3 col-md-9 col-sm-offset-3 col-sm-9 mt-5">
+        
+        </section>
+
+        <!-- Used to display report embed error messages -->
+        <section class="error-container m-5">
+        </section>
+        <script>
+            document.getElementById("reportSelect").onchange = function (e) {
+                var log = document.getElementById("testing");
+                console.log("Log", this.selectedIndex);
+                log.innerHTML = this[this.selectedIndex].value;
+                console.log("Selected Value ", this[this.selectedIndex].value);
+            };
+        </script>
+
+    </main>
+
+    <footer class="embed-container col-lg-12 col-md-12 col-sm-12 mb-0 mt-4">
+        <!--<p class="text-center">
+             For Live demo and more code samples please visit <a href="https://aka.ms/pbijs">https://aka.ms/pbijs</a>
+             <br>
+             For JavaScript API, please visit <a href="https://aka.ms/PowerBIjs">https://aka.ms/PowerBIjs</a>
+          </p>-->
+    </footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/lib/powerbi-client/dist/powerbi.min.js"></script>
+    <script src="/js/index.js"></script>
+</body>
+</html>

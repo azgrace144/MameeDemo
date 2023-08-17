@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAArJT0TdrPckqw1kP2mulE1wAAAAACAAAAAAAQZgAAAAEAACAAAAAbF4RbmbifAm65SmjUueQDJ+hpuRjt3b99VsHd4KaMUAAAAAAOgAAAAAIAACAAAADcLuGtdWZXrpUlkj9iFFD9fNXkF1qkBq+5ydHiaayrAoAAAAB348UkZebqxEcn5FYxz64WYTCVKPWU1t4xnXagKxRLqo1BMawnzTVRUtVuWyZoDcfelO1SGS2eAyiPygjL3OGKorEofCdV5aqkKqZ36PX+H1dPzE1n+GX9AoBTlgWuSnJV762HG3tj/6Qj4iPr1MQp1QKczIGpQQGRuARMqfaD40AAAAAPU0m1qDU1CaeVovJlR/5zK8CTknRSkhn2o4zm0Ic+g/LQFMSYlc1fnbhq0ylI/nYvyN4zyc3DAgHM3z/XQSZg</EncryptedPassword>
+    <History>True|2023-08-07T15:13:41.3507172Z;False|2023-08-07T21:40:37.8464303+06:30;False|2023-08-07T21:36:51.0265369+06:30;False|2023-08-07T21:32:37.9616348+06:30;False|2023-08-07T21:17:21.4942912+06:30;False|2023-08-07T20:59:22.8176903+06:30;False|2023-08-07T20:53:04.7908241+06:30;False|2023-08-07T20:49:39.7639184+06:30;False|2023-08-07T20:25:19.2851135+06:30;False|2023-08-07T14:04:41.1186252+06:30;False|2023-08-07T13:57:56.4959036+06:30;True|2023-08-07T12:35:12.7508665+06:30;False|2023-08-04T16:42:08.8454314+06:30;False|2023-08-04T16:33:53.2696831+06:30;False|2023-08-04T15:49:52.9452463+06:30;True|2023-08-04T15:36:04.3318821+06:30;True|2023-08-04T15:17:04.5360886+06:30;True|2023-08-04T14:34:26.5351241+06:30;True|2023-08-04T14:21:57.8362010+06:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AZURE_SQL_CONNECTIONSTRING">
+      <Value>Server=tcp:mameedbserver.database.windows.net,1433%3bInitial Catalog=MameeDB%3bPersist Security Info=False%3bUser ID=dbadmin%3bPassword=Admin144%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="AppOwnsData.DB.AppDbcontext">
+      <Value>Server=tcp:mameedbserver.database.windows.net,1433%3bInitial Catalog=MameeDB%3bPersist Security Info=False%3bUser ID=dbadmin%3bPassword=Admin144%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="MameeDemo" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\AmazingGrace\\C\#\\RealProjects\\PBI_Embedded\(Meor\)\\Embed\ for\ your\ customers\\AppOwnsData\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="AppOwnsData.DB.AppDbcontext" description="" value="Server=tcp:mameedbserver.database.windows.net,1433;Initial Catalog=MameeDB;Persist Security Info=False;User ID=dbadmin;Password=Admin144;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\AmazingGrace\\C\#\\RealProjects\\PBI_Embedded\(Meor\)\\Embed\ for\ your\ customers\\AppOwnsData\\obj\\Release\\netcoreapp3\.1\\PubTmp\\EFSQLScripts\\AppOwnsData\.DB\.AppDbcontext\.sql$" />
+  </parameter>
+</parameters>

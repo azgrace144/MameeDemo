@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+  <dbfullsql path="C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\AppOwnsData.DB.AppDbcontext.sql" />
+</sitemanifest>

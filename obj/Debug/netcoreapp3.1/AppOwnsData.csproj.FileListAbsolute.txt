@@ -1,0 +1,196 @@
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.exe
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.deps.json
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.runtimeconfig.json
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.runtimeconfig.dev.json
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.dll
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.pdb
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.Views.dll
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.Views.pdb
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.PowerBI.Api.dll
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.AssemblyInfo.cs
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorAssemblyInfo.cache
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorAssemblyInfo.cs
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\staticwebassets\AppOwnsData.StaticWebAssets.Manifest.cache
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\staticwebassets\AppOwnsData.StaticWebAssets.Pack.cache
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.AppOwnsData.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.AppOwnsData.props
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.AppOwnsData.props
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.AppOwnsData.props
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.TagHelpers.input.cache
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.TagHelpers.output.cache
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorCoreGenerate.cache
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorTargetAssemblyInfo.cache
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorTargetAssemblyInfo.cs
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.Views.pdb
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.csproj.CopyComplete
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.dll
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.pdb
+C:\Users\User\Downloads\PowerBI-Developer-Samples-master (1)\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.genruntimeconfig.cache
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\appsettings.json
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\libman.json
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.exe
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.deps.json
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.runtimeconfig.json
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.runtimeconfig.dev.json
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.pdb
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.Views.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.Views.pdb
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.PowerBI.Api.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.csproj.AssemblyReference.cache
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.GeneratedMSBuildEditorConfig.editorconfig
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.AssemblyInfoInputs.cache
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.AssemblyInfo.cs
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.csproj.CoreCompileInputs.cache
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.MvcApplicationPartsAssemblyInfo.cache
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorAssemblyInfo.cache
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorAssemblyInfo.cs
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\staticwebassets\AppOwnsData.StaticWebAssets.Manifest.cache
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\staticwebassets\AppOwnsData.StaticWebAssets.Pack.cache
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.AppOwnsData.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.AppOwnsData.props
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.AppOwnsData.props
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.AppOwnsData.props
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.TagHelpers.input.cache
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.TagHelpers.output.cache
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorCoreGenerate.cache
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\Razor\Views\Login\login.cshtml.g.cs
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorTargetAssemblyInfo.cache
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorTargetAssemblyInfo.cs
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.Views.pdb
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.csproj.CopyComplete
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.dll
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.pdb
+C:\AmazingGrace\C#\RealProjects\PBI_Embedded(Meor)\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.genruntimeconfig.cache
